@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body
+  {
+    background: linear-gradient(to right, #f877c2, #df7219);
+  }
+
+  .datas
+  {
+    border-radius: 60px;
+    border: 5px solid  rgba(197, 83, 136, 0.486);
+    background:linear-gradient(to right, #7795f898, #0dcaf091);
+  }
